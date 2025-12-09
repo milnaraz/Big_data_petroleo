@@ -1,0 +1,6 @@
+Produto: GASOLINA COMUM
+Modelo: Linear Regression
+MAE: R$ 0.0280
+RMSE: R$ 0.0320
+R²: 0.9848
+Features: 20

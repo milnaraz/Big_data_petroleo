@@ -1,0 +1,6 @@
+Produto: DIESEL S10
+Modelo: Linear Regression
+MAE: R$ 0.0209
+RMSE: R$ 0.0241
+R²: 0.9431
+Features: 20

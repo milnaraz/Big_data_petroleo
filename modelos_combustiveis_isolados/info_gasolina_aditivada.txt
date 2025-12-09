@@ -1,0 +1,6 @@
+Produto: GASOLINA ADITIVADA
+Modelo: Linear Regression
+MAE: R$ 0.0196
+RMSE: R$ 0.0266
+R²: 0.9888
+Features: 20

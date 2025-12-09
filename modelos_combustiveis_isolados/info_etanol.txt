@@ -1,0 +1,6 @@
+Produto: ETANOL
+Modelo: Linear Regression
+MAE: R$ 0.0280
+RMSE: R$ 0.0359
+R²: 0.9603
+Features: 20
