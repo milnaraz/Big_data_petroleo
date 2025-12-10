@@ -1,0 +1,6 @@
+Produto: DIESEL S500
+Modelo: Linear Regression
+MAE: R$ 0.0301
+RMSE: R$ 0.0321
+R²: 0.9635
+Features: 20
